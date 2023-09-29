@@ -4,7 +4,7 @@ function Footer() {
     return (
         <div className='relative grid grid-cols-1 md:grid-cols-4 gap-y-10 px-32 py-14 bg-gray-100 text-gray-600'>
             <div className='space-y-4 text-xs text-gray-800'>
-                <h4 className='font-bold'>AboutT</h4>
+                <h4 className='font-bold hover:scale-110'>ABOUT</h4>
                 <p>How Airbnb works</p>
                 <p>News room</p>
                 <p>Investors</p>
@@ -13,7 +13,7 @@ function Footer() {
             </div>
 
             <div className='space-y-4 text-xs text-gray-800'>
-                <h4 className='font-bold'>Support</h4>
+                <h4 className='font-bold hover:scale-110'>SUPPORT</h4>
                 <p>Help Centre</p>
                 <p>AirCover</p>
                 <p>Disability support</p>
@@ -22,7 +22,7 @@ function Footer() {
             </div>
 
             <div className='space-y-4 text-xs text-gray-800'>
-                <h4 className='font-bold'>Hosting</h4>
+                <h4 className='font-bold hover:scale-110'>HOSTING</h4>
                 <p>Airbnb your home</p>
                 <p>AirCover for Hosts</p>
                 <p>Investors</p>
@@ -31,7 +31,7 @@ function Footer() {
             </div>
 
             <div className='space-y-4 text-xs text-gray-800'>
-                <h3 className='font-bold'>Airbnb</h3>
+                <h3 className='font-bold hover:scale-110'>Airbnb</h3>
                 <p>Newsroom</p>
                 <p>New features</p>
                 <p>Careers</p>
